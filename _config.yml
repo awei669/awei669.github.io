@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wei Pan-Home"
 title_separator          : "-"
 name                     : &name "Wei Pan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Pan"
   avatar           : "Wei Pan.png"
-  bio              : "Master student study in School of Computer Science and Artificial Intelligence, Wuhan University of Technology, major in Computer Vision, Machine Learning"
+  bio              : "Master student study in School of Computer Science and Artificial Intelligence, Wuhan University of Technology"
   location         : "Wuhan, China"
   employer         :
   #pubmed           : 
