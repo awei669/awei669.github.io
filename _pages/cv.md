@@ -11,9 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Wuhan, Wuhan Institute of Technology, 2021
+* M.S. in Wuhan, Wuhan University of Technology, 2021-2024(expected)
+
+
+Research Interest
+======
+* My research interests are computer vision and deep learning. Research projects include offline handwritten character generation and Few shot font generation. Increasing the versatility of the model and using weak supervision to increase the generalization of the model are what I focus on. Vector font generation is also one of my current research directions.
+
+Publications
+======
+* Please refer to **[Publications](/publications)**.
+
+Honors & Award
+======
+* MindSpore open source community internship offer, HUAWEI
+* Second-class scholarship, School of Computer and Artificial Intelligence
+* National First Prize in National Undergraduate Mathematics Contest
+* First Class Scholarship and Outstanding Graduates, Computer Science and Engineering
+* Second Prize of College Students Innovation and Entrepreneurship Competition
+* second-class scholarship, Excellent class cadre, Computer Science and Engineering
+
+
+<!--
+
 
 Work experience
 ======
@@ -57,3 +78,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+-->
