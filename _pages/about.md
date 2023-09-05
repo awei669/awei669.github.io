@@ -13,5 +13,5 @@ Currently I’m a Second year master student advised by Prof. [Anna Zhu](http://
 
 News
 ======
-* [july'2023] **One** paper is accepted by **ICCV2023**. [paper]() | [code]().
+* [july'2023] **One** paper is accepted by **ICCV2023**. [paper](www.baidu.com) | [code](https://github.com/awei669/VQ-Font).
 * [March'2023] **One** paper is accepted by **ICME2023**. [paper](https://ieeexplore.ieee.org/abstract/document/10219982)
