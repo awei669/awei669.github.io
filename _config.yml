@@ -86,8 +86,8 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : "https://scholar.google.com/citations?user=D52J2HkAAAAJ&hl=zh-CN"
-  googlescholar    : "we1pan@163.com"
-  email            :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "we1pan@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
