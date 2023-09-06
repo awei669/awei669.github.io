@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Wuhan, Wuhan Institute of Technology, 2021
-* M.S. in Wuhan, Wuhan University of Technology, 2021-2024(expected)
+* B.Eng. in Wuhan, Wuhan Institute of Technology, 2021
+* M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024(expected)
 
 
 Research Interest
