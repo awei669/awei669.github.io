@@ -17,11 +17,10 @@ Recent News
 * [3'2023] **One** paper is accepted by [**ICME2023**](https://www.2023.ieeeicme.org/). 
 
 
+
 Selected Papers
 ======
-
 <p>
-<br>
 <strong>
 Few shot font generation via transferring similarity guided global style and quantization local style
 </strong>
