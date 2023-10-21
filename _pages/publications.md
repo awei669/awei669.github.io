@@ -12,7 +12,7 @@ author_profile: true
 Few shot font generation via transferring similarity guided global style and quantization local style
 </strong>
 <br>
-  <strong>Wei Pan</strong>, Anna Zhu<sup>\dag</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li
+  <strong>Wei Pan</strong>, Anna Zhu<sup>{\dag}</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li
 <br>
   <strong>International Conference on Computer Vision</strong>, 2023, [<a href="https://arxiv.org/abs/2309.00827">Paper</a>], [<a href="https://github.com/awei669/VQ-Font">Project</a>]
 </p>
