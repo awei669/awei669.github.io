@@ -23,14 +23,19 @@ Publications
 ======
 * Please refer to **[Publications](/publications)**.
 
+Project experience
+======
+* Ascend ModelZoo model migration, HUAWEI(2022.6 - 2022.9)
+* Implementation of HMPP image pyramid function, HUAWEI(2021.9 - 2021.12)
+
 Honors & Award
 ======
-* MindSpore open source community internship offer, HUAWEI
-* Second-class scholarship, School of Computer and Artificial Intelligence
-* National First Prize in National Undergraduate Mathematics Contest
-* First Class Scholarship and Outstanding Graduates, Computer Science and Engineering
-* Second Prize of College Students Innovation and Entrepreneurship Competition
-* second-class scholarship, Excellent class cadre, Computer Science and Engineering
+* First Class Scholarship and School Sanhao Graduate Student(2023.10)
+* MindSpore open source community internship offer, HUAWEI(2022.6)
+* Second-class scholarship, School of Computer and Artificial Intelligence(2021.10)
+* National First Prize in National Undergraduate Mathematics Contest(2021.5)
+* First Class Scholarship and Outstanding Graduates, Computer Science and Engineering(2021.6)
+* second-class scholarship, Excellent class cadre, Computer Science and Engineering(2020.10)
 
 
 <!--
