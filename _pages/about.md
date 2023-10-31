@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a master student advised by Associate Professor [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml)(Computer Vision & Multimodal Learning, 2021.09 ~ present). My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
+Currently I am studying for a master's degree. My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
 
 
 Recent News
