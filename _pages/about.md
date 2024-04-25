@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 
-Currently I am studying for a master's degree, and supervised by Associate Professor [Anna Zhu](https://scholar.google.com/citations?user=H5pImFUAAAAJ&hl=zh-CN). My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
+I am a third-year graduate student in Wuhan University of Technology, supervised by Associate Professor [Anna Zhu](https://scholar.google.com/citations?user=H5pImFUAAAAJ&hl=zh-CN). My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
 
 
 
 
 ## News
-
 
 * [7'2023] **One** paper is accepted by [**ICCV2023**](https://iccv2023.thecvf.com/) as Poster.  
 * [3'2023] **One** paper is accepted by [**ICME2023**](https://www.2023.ieeeicme.org/) as Oral. 
@@ -47,18 +46,18 @@ Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Mat
 
 ## Education
 
-* B.Eng. in Wuhan, Wuhan Institute of Technology, 2021
+* B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
 * M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024（expected）
 
 ## Projects
 
-* Ascend ModelZoo model migration, HUAWEI（2022.6 - 2022.9）
-* Implementation of HMPP image pyramid function, HUAWEI（2021.9 - 2021.12）
+* Ascend ModelZoo model migration, HUAWEI. 2022.6-2022.9
+* Implementation of HMPP image pyramid function, HUAWEI. 2021.9-2021.12
 
 ## Awards
 
-* First Class Scholarship and School Sanhao Graduate Student（2022.10）
-* National First Prize in National Undergraduate Mathematics Contest（2021.5）
-* Outstanding Graduates, Excellent class cadre.（2021.6）
+* First Class Scholarship and School Sanhao Graduate Student. 2022.10
+* National First Prize in National Undergraduate Mathematics Contest. 2021.5
+* Outstanding Graduates, Excellent class cadre. 2021.6
 
 
