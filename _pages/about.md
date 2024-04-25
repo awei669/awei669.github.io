@@ -61,3 +61,6 @@ Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Mat
 * Outstanding Graduates, Excellent class cadre. 2021.6
 
 
+##### Last update: 4/25, 2024.
+
+
