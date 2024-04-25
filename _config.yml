@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CN"
-title                    : "Biography"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Wei Pan"
 description              : &description "personal description"
