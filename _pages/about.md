@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 # Biography
 
 Currently I am studying for a master's degree, and supervised by Associate Professor [Anna Zhu](https://scholar.google.com/citations?user=H5pImFUAAAAJ&hl=zh-CN). My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
