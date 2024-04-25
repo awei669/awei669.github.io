@@ -9,19 +9,22 @@ redirect_from:
 ---
 
 
-## Biography
+# Biography
+
 
 Currently I am studying for a master's degree, and supervised by Associate Professor [Anna Zhu](https://scholar.google.com/citations?user=H5pImFUAAAAJ&hl=zh-CN). My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
 
 
-## News
+
+
+# News
 
 * [7'2023] **One** paper is accepted by [**ICCV2023**](https://iccv2023.thecvf.com/). 
 * [3'2023] **One** paper is accepted by [**ICME2023**](https://www.2023.ieeeicme.org/). 
 
 
 
-## Publications
+# Publications
 
 <p>
 <strong>
@@ -44,17 +47,17 @@ Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Mat
   <strong>IEEE International Conference on Multimedia and Expo</strong>, 2023, [<a href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a>]
 </p>
 
-## Education
+# Education
 
 * B.Eng. in Wuhan, Wuhan Institute of Technology, 2021
 * M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024（expected）
 
-## Projects
+# Projects
 
 * Ascend ModelZoo model migration, HUAWEI（2022.6 - 2022.9）
 * Implementation of HMPP image pyramid function, HUAWEI（2021.9 - 2021.12）
 
-## Awards
+# Awards
 
 * First Class Scholarship and School Sanhao Graduate Student（2022.10）
 * National First Prize in National Undergraduate Mathematics Contest（2021.5）
