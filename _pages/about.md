@@ -23,26 +23,15 @@ I am a third-year graduate student in Wuhan University of Technology, supervised
 
 # Publications
 
-<p>
-<strong>
-Few shot font generation via transferring similarity guided global style and quantization local style
-</strong>
-<br>
-  <strong>Wei Pan</strong>, Anna Zhu<sup>*</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li
-<br>
-  <strong>International Conference on Computer Vision(ICCV)</strong>, 2023, [<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>], [<a href="https://github.com/awei669/VQ-Font">Code</a>]
-</p>
+* **Few shot font generation via transferring similarity guided global style and quantization local style**
+**Wei Pan**, Anna Zhu*, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li
+**International Conference on Computer Vision(ICCV), 2023.** [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [[Code]](https://github.com/awei669/VQ-Font)
 
-<p>
-<br>
-<strong>
-Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Matching
-</strong>
-<br>
-   Xinyu Zhou, Anna Zhu<sup>*</sup>, Huen Chen, <strong>Wei Pan</strong>
-<br>
-  <strong>IEEE International Conference on Multimedia and Expo</strong>, 2023, [<a href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a>]
-</p>
+* **Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Matching**
+Xinyu Zhou, Anna Zhu*, Huen Chen, **Wei Pan**
+**IEEE International Conference on Multimedia and Expo(ICME), 2023.** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10219982)
+
+
 
 # Education
 
