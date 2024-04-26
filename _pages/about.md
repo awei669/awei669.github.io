@@ -24,7 +24,7 @@ I am a third-year graduate student in Wuhan University of Technology, supervised
 
 * **Few shot font generation via transferring similarity guided global style and quantization local style. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [[Code]](https://github.com/awei669/VQ-Font)**  
   **Wei Pan**, Anna Zhu*, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li.  
-  **International Conference on Computer Vision(ICCV), 2023.**
+  ***International Conference on Computer Vision(ICCV), 2023.***
   
 
 
