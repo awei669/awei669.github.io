@@ -27,7 +27,7 @@ I am a third-year graduate student in Wuhan University of Technology, supervised
   **International Conference on Computer Vision(ICCV), 2023.**  
 * **Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Matching. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10219982)**  
   Xinyu Zhou, Anna Zhu*, Huen Chen, **Wei Pan**.  
-  **IEEE International Conference on Multimedia and Expo(ICME), 2023.**
+  **IEEE International Conference on Multimedia and Expo(ICME), 2023.**  
 
 
 
