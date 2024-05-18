@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 # Biography
-I am a third-year graduate student in Wuhan University of Technology, supervised by Associate Professor [Anna Zhu](https://scholar.google.com/citations?user=H5pImFUAAAAJ&hl=zh-CN). My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model. 
-
+Incoming Phd student in South China University of Technology.
 
 
 # News
 
+* [6'2024] Obtained a master's degree from [**Wuhan University of Technology**](https://www.whut.edu.cn/). 
 * [7'2023] **One** paper is accepted by [**ICCV2023**](https://iccv2023.thecvf.com/) as Poster.  
 * [3'2023] **One** paper is accepted by [**ICME2023**](https://www.2023.ieeeicme.org/) as Oral.
 
@@ -34,7 +34,7 @@ I am a third-year graduate student in Wuhan University of Technology, supervised
 # Education
 
 * B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
-* M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024（expected）
+* M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024
 
 # Projects
 
