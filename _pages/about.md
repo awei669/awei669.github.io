@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 # Biography
-Incoming Phd student in South China University of Technology.
+Graduated from Wuhan University of Technology with a master's degree in engineering, and Will join the DLVC lab of South China University of Technology.
 
 
 # News
 
-* [6'2024] Obtained a master's degree from [**Wuhan University of Technology**](https://www.whut.edu.cn/). 
+* [6'2024] Obtained a master's degree from [**WHUT**](https://www.whut.edu.cn/). 
 * [7'2023] **One** paper is accepted by [**ICCV2023**](https://iccv2023.thecvf.com/) as Poster.  
 * [3'2023] **One** paper is accepted by [**ICME2023**](https://www.2023.ieeeicme.org/) as Oral.
 
