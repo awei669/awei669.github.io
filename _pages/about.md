@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
-Graduated from Wuhan University of Technology with a master's degree in engineering, and Will join the DLVC lab of South China University of Technology.
+Graduated from Wuhan University of Technology with a master's degree in engineering, and will join the DLVC lab of South China University of Technology.
 
 
 # News
