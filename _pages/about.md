@@ -36,6 +36,7 @@ Graduated from Wuhan University of Technology with a master's degree in engineer
 * B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
 * M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024
 
+
 # Projects
 
 * Ascend ModelZoo model migration, HUAWEI. 2022.6-2022.9
@@ -43,9 +44,9 @@ Graduated from Wuhan University of Technology with a master's degree in engineer
 
 # Awards
 
-* First Class Scholarship and School Sanhao Graduate Student. 2022.10
-* National First Prize in National Undergraduate Mathematics Contest. 2021.5
-* Outstanding Graduates, Excellent class cadre. 2021.6
+* Outstanding graduate student. 2024.6
+* School Sanhao Graduate Student. 2023.10
+
 
 
 ##### Last update: 4/25, 2024.
