@@ -42,11 +42,6 @@ Graduated from Wuhan University of Technology with a master's degree in engineer
 
 IEEE Transactions on Multimedia. 
 
-# Projects
-
-* Ascend ModelZoo model migration, HUAWEI. 2022.6-2022.9
-* Implementation of HMPP image pyramid function, HUAWEI. 2021.9-2021.12
-
 # Awards
 
 * Outstanding graduate student. 2024.6
