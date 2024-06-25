@@ -38,7 +38,8 @@ Graduated from Wuhan University of Technology with a master's degree in engineer
 * B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
 * M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024
 
-# Academic service
+# Academic Services
+
 IEEE Transactions on Multimedia. 
 
 # Projects
