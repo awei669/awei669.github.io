@@ -35,12 +35,12 @@ Graduated from Wuhan University of Technology with a master's degree in engineer
 # Education
 
 * D.Eng. in South China University of Technology, Since 2024
-* B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
 * M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024
+* B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
 
-# Academic Services
+# Academic Service
 
-IEEE Transactions on Multimedia. 
+IEEE-TMM, ICPR'24.
 
 # Awards
 
