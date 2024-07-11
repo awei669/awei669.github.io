@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
-Wei Pan is a Ph.D student in DLVC lab from **[South China University of Technology](https://www.scut.edu.cn/new/)**, supervised by Prof **[Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html)**. Before that, he obtained a Master's degree from **[Wuhan University of Technology](https://www.whut.edu.cn/)**, 2024, supervised by Associate Prof **[Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml)**. His research interest mainly focus on Computer Vision, Image Processing. 
+Wei Pan is a Ph.D student in DLVC lab from **[South China University of Technology](https://www.scut.edu.cn/new/)**, supervised by Prof **[Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html)**. Before that, he graduated from **[Wuhan University of Technology](https://www.whut.edu.cn/)** with a master's degree, 2024, supervised by Associate Prof **[Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml)**. His research interest mainly focus on Computer Vision, Image Processing. 
 
 
 # News
