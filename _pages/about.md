@@ -34,9 +34,10 @@ Wei Pan is a Ph.D student in DLVC lab from **[South China University of Technolo
 
 # Education
 
-* D.Eng. in South China University of Technology, Since 2024
-* M.Eng. in Wuhan, Wuhan University of Technology, 2021-2024
-* B.Eng. in Wuhan, Wuhan Institute of Technology, 2017-2021
+* D.Eng. in South China University of Technology, Guangzhou, China. Since 2024.
+* M.Eng. in Wuhan University of Technology, Wuhan, China. 2021-2024.
+* B.Eng. in Wuhan Institute of Technology, Wuhan, China. 2017-2021.
+
 
 # Academic Service
 
@@ -46,6 +47,7 @@ IEEE-TMM, ICPR'24.
 
 * Outstanding graduate student. 2024.6
 * School Sanhao Graduate Student. 2023.10
+* Outstanding undergraduate student. 2021.6
 
 
 ##### Last update: 4/25, 2024.
