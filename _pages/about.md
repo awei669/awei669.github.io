@@ -41,7 +41,7 @@ Wei Pan is a Ph.D student in DLVC lab from **[South China University of Technolo
 
 # Academic Service
 
-* IEEE-TMM, ICPR'24.
+IEEE-TMM, ICPR'24.
 
 # Awards
 
