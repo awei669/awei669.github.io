@@ -46,7 +46,6 @@ IEEE-TMM, ICPR'24.
 # Awards
 
 * Outstanding graduate student. 2024.6
-* School Sanhao Graduate Student. 2023.10
 * Outstanding undergraduate student. 2021.6
 
 
