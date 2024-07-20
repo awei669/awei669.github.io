@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+# Biography
 Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof [Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml). His research interest mainly focus on Computer Vision, Image Processing. 
 
 
-## News
+# News
 
 * [7'2023] *One* paper is accepted by [ICCV2023](https://iccv2023.thecvf.com/) as Poster.  
 * [3'2023] *One* paper is accepted by [ICME2023](https://www.2023.ieeeicme.org/) as Oral.
 
 
 
-## Research
+# Research
 
 * Few shot font generation via transferring similarity guided global style and quantization local style. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [Code](https://github.com/awei669/VQ-Font)  
   **Wei Pan**, Anna Zhu*, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li.  
@@ -32,11 +32,11 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 
 
 
-## Academic Service
+# Academic Service
 
 IEEE-TMM, ICPR'24.
 
-## Awards
+# Awards
 
 Outstanding graduate student. 2024.6  
 Outstanding undergraduate student. 2021.6
