@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
-Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof **[Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html)**. Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof **[Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml)**. His research interest mainly focus on Computer Vision, Image Processing. 
+Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof [Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml). His research interest mainly focus on Computer Vision, Image Processing. 
 
 
 # News
@@ -22,21 +22,15 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 
 # Publications
 
-* **Few shot font generation via transferring similarity guided global style and quantization local style. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [[Code]](https://github.com/awei669/VQ-Font)**  
+* Few shot font generation via transferring similarity guided global style and quantization local style. [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [**Code**](https://github.com/awei669/VQ-Font)  
   **Wei Pan**, Anna Zhu*, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li.  
-  **International Conference on Computer Vision(ICCV), 2023.**  
+  International Conference on Computer Vision(ICCV), 2023.  
 
-* **Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Matching. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10219982)**  
+ * Scene Text Involved "Text"-to-Image Retrieval through Logically Hierarchical Matching. [**Paper**](https://ieeexplore.ieee.org/abstract/document/10219982)  
   Xinyu Zhou, Anna Zhu*, Huen Chen, **Wei Pan**.  
-  **IEEE International Conference on Multimedia and Expo(ICME), 2023.**  
+  IEEE International Conference on Multimedia and Expo(ICME), 2023.  
+  
 
-
-
-# Education
-
-* D.Eng. in South China University of Technology, Guangzhou, China. Since 2024.
-* M.Eng. in Wuhan University of Technology, Wuhan, China. 2021-2024.
-* B.Eng. in Wuhan Institute of Technology, Wuhan, China. 2017-2021.
 
 
 # Academic Service
@@ -45,8 +39,8 @@ IEEE-TMM, ICPR'24.
 
 # Awards
 
-* Outstanding graduate student. 2024.6
-* Outstanding undergraduate student. 2021.6
+ Outstanding graduate student. 2024.6
+ Outstanding undergraduate student. 2021.6
 
 
 ##### Last update: 4/25, 2024.
