@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Wei Pan.me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
