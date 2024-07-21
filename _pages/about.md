@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+h1 { font: 18pt kai !important; }
+h2 { font: 22pt song !important; }
+h3 { font: 16pt song !important; }
+p { font: 10pt song !important; }
+</style>
+
 
 # Biography
 Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof [Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml). His research interest mainly focus on Computer Vision, Image Processing. 
