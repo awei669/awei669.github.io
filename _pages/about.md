@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<font size=2 face='Microsoft YaHei'>
+
 # Biography
 Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof [Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml). His research interest mainly focus on Computer Vision, Image Processing. 
 
@@ -48,4 +50,6 @@ Outstanding undergraduate student. 2021.6
 
 
 <a href='https://clustrmaps.com/site/1c07b'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=VwMJpNfSRvymxWpJ1PNkRBvE9Y8CcuHGeT4blD1IzLc&co=2d78ad&ct=ffffff'/></a>
+
+
 
