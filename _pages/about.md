@@ -23,14 +23,17 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 
 # Research
 
+  **Wei Pan**, Anna Zhu, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li. Few shot font generation via transferring similarity guided global style and quantization local style. ICCV 2023. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [Code](https://github.com/awei669/VQ-Font).  
 
-  **Wei Pan**, Anna Zhu, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li. Few shot font generation via transferring similarity guided global style and quantization local style. In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, pages 19506–19516, 2023. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html), [Code](https://github.com/awei669/VQ-Font).  
 
-
-  Xinyu Zhou, Anna Zhu, Huen Chen, and **Wei Pan**. Scene text involved” text”-to-image retrieval through logically hierarchical matching. In *2023 IEEE International Conference on Multimedia and Expo (ICME)*. IEEE, 2023: 114-119. [Paper](https://ieeexplore.ieee.org/abstract/document/10219982).  
+  Xinyu Zhou, Anna Zhu, Huen Chen, and **Wei Pan**. Scene text involved” text”-to-image retrieval through logically hierarchical matching. ICME 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10219982).  
   
 
+# Education
 
+D.Eng in South Chian University of Technology, Guangzhou, China. Since 2024.
+M.Eng in Wuhan University of Technology, Wuhan, China. 2021-2024.
+B.Eng in Wuhan Institute of Technology, Wuhan, china. 2017-2021.
 
 # Academic Service
 
