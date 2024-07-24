@@ -9,8 +9,13 @@ redirect_from:
 ---
 
 
+<a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>
+
+
 # Biography
-Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof [Lianwen Jin](http://www.dlvc-lab.net/lianwen/Index.html). Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml). His research interest mainly focus on Computer Vision, Image Processing. 
+<p align="justify">
+Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. His research interest mainly focus on Computer Vision, Image Processing.
+</p>
 
 
 # News
