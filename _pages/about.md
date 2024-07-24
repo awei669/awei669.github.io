@@ -10,7 +10,7 @@ redirect_from:
 
 
 # Biography
-<p align="justify">
+<p style="font-size: 14px;" align="justify">
 Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. His research interest mainly focus on Computer Vision, Image Processing.
 </p>
 
@@ -24,11 +24,12 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 
 
 # Research
-###### <p style="font-size: 13px;"> <sup>*</sup> Contributed equally to the work, <sup>†</sup> Corresponding author</p>
+<p style="font-size: 12px;"> 
+  <sup>*</sup> <b>Contributed equally to the work</b>, <sup>†</sup> <b>Corresponding author.</b> 
+</p>
 
 
-
-<p style="font-size: 13px;" align="justify">
+<p style="font-size: 14px;" align="justify">
   <i>Few shot font generation via transferring similarity guided global style and quantization local style.</i>
   <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>
   <a href="https://github.com/awei669/VQ-Font">Code</a> <br>
