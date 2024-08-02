@@ -28,7 +28,7 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 <!-- Research -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Research</h1>
 <p style="font-size: 13px;"> 
-  <sup>*</sup> <b>Contributed equally to the work</b>, <sup>†</sup> <b>Corresponding author.</b> 
+  <sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author.</b> 
 </p>
 
 
