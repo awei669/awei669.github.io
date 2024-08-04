@@ -31,6 +31,17 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
   <sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author.</b> 
 </p>
 
+<style>
+    /* 取消所有链接文本的下划线 */
+    a {
+      text-decoration: none;
+    }
+
+    /* 仅取消特定类名的链接文本下划线 */
+    .no-underline {
+      text-decoration: none;
+    }
+  </style>
 
 <!-- ICCV2023 -->
 <p style="font-size: 15px;" align="justify">
