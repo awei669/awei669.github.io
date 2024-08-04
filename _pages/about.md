@@ -11,7 +11,7 @@ redirect_from:
 <!-- Biography -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Biography</h1>
 <p style="font-size: 15px;" align="justify">
-Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. His research interest mainly focus on Computer Vision, Image Processing.
+Wei Pan is a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a class="no-underline" href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, he graduated from Wuhan University of Technology with a master's degree, 2024, supervised by Associate Prof <a class="no-underline" href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. His research interest mainly focus on Computer Vision, Image Processing.
 </p>
 
 
@@ -20,8 +20,8 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">News</h1>
 <ul style="list-style-type: square; font-size: 15px">
   <li>[6'2024] Graduated from Wuhan University of Technology.</li>
-  <li>[7'2023] One paper is accepted by <a href="https://iccv2023.thecvf.com/">ICCV2023</a> as Poster. </li>
-  <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME2023</a> as Oral. </li>
+  <li>[7'2023] One paper is accepted by <a class="no-underline" href="https://iccv2023.thecvf.com/">ICCV2023</a> as Poster. </li>
+  <li>[3'2023] One paper is accepted by <a class="no-underline" href="https://www.2023.ieeeicme.org/">ICME2023</a> as Oral. </li>
 </ul>
 
 
@@ -35,8 +35,8 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 <!-- ICCV2023 -->
 <p style="font-size: 15px;" align="justify">
   <i>Few shot font generation via transferring similarity guided global style and quantization local style.</i>
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>
-  <a href="https://github.com/awei669/VQ-Font">Code</a> <br>
+  <a class="no-underline" href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>
+  <a class="no-underline" href="https://github.com/awei669/VQ-Font">Code</a> <br>
   <b>Wei Pan</b>, Anna Zhu<sup>†</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li. <br>
   International Conference on Computer Vision (<b>ICCV</b>), 2023.
 </p>
@@ -44,7 +44,7 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 <!-- ICME2023 -->
 <p style="font-size: 15px;" align="justify">
   <i>Scene text involved “text”-to-image retrieval through logically hierarchical matching.</i>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a> <br>
+  <a class="no-underline" href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a> <br>
   Xinyu Zhou, Anna Zhu<sup>†</sup>, Huen Chen, and <b>Wei Pan</b>.  <br>
   International Conference on Multimedia and Expo (<b>ICME</b>), 2023.
 </p>
