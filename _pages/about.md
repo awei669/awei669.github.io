@@ -46,7 +46,7 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 <!-- ICCV2023 -->
 <p style="font-size: 15px;" align="justify">
   <i>Few shot font generation via transferring similarity guided global style and quantization local style.</i>
-  <a class="no-underline" href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>
   <a class="no-underline" href="https://github.com/awei669/VQ-Font">Code</a> <br>
   <b>Wei Pan</b>, Anna Zhu<sup>†</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li. <br>
   International Conference on Computer Vision (<b>ICCV</b>), 2023.
