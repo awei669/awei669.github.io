@@ -35,19 +35,20 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
 
 <!-- ICCV2023 -->
 <p style="font-size: 15px;" align="justify">
-  <i>Few shot font generation via transferring similarity guided global style and quantization local style.</i>
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">Paper</a>
-  <a href="https://github.com/awei669/VQ-Font">Code</a> <br>
+  <i>Few shot font generation via transferring similarity guided global style and quantization local style.</i> <br>
   <b>Wei Pan</b>, Anna Zhu<sup>†</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li. <br>
-  International Conference on Computer Vision (<b>ICCV</b>), 2023.
+  International Conference on Computer Vision (<b>ICCV</b>), 2023. <br>
+  <a href="https://arxiv.org/abs/2309.00827">Arxiv</a>
+  <a href="https://github.com/awei669/VQ-Font">Github</a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">CVF</a>
 </p>
 
 <!-- ICME2023 -->
 <p style="font-size: 15px;" align="justify">
-  <i>Scene text involved “text”-to-image retrieval through logically hierarchical matching.</i>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a> <br>
+  <i>Scene text involved “text”-to-image retrieval through logically hierarchical matching.</i> <br>
   Xinyu Zhou, Anna Zhu<sup>†</sup>, Huen Chen, and <b>Wei Pan</b>.  <br>
-  International Conference on Multimedia and Expo (<b>ICME</b>), 2023.
+  International Conference on Multimedia and Expo (<b>ICME</b>), 2023. <br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10219982">PDF</a> <br>
 </p>
 
 
