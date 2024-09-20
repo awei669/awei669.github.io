@@ -48,7 +48,7 @@ Wei Pan is a Ph.D student in DLVC lab from South China University of Technology,
   <i>Scene text involved “text”-to-image retrieval through logically hierarchical matching.</i> <br>
   Xinyu Zhou, Anna Zhu<sup>†</sup>, Huen Chen, and <b>Wei Pan</b>.  <br>
   International Conference on Multimedia and Expo (<b>ICME</b>), 2023. <br>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10219982">PDF</a> <br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a> <br>
 </p>
 
 
