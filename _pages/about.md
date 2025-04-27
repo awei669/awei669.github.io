@@ -11,7 +11,7 @@ redirect_from:
 <!-- Biography -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Biography</h1>
 <p style="font-size: 15px;" align="justify">
-Hi! I am a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, I obtained a Master's degree in Computer Science with a focus on artificial intelligence from Wuhan University of Technology, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. <br> 
+Hi! I am a Ph.D student in DLVC lab from <a href="https://www.scut.edu.cn/new/">South China University of Technology</a>, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, I obtained a Master's degree from <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. <br> 
 <br> 
 My research interest mainly focus on generating tasks, such as Font generation, Handwritten text synthesis.
 </p>
