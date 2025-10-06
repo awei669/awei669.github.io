@@ -11,8 +11,7 @@ redirect_from:
 <!-- Biography -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Biography</h1>
 <p style="font-size: 15px;" align="justify">
-Hi! I am a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, I obtained a Master's degree from Wuhan University of Technology, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. <br> 
-<br> 
+Hi! I am a Ph.D student in DLVC lab from South China University of Technology, supervised by Prof <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. Before that, I obtained a Master's degree from Wuhan University of Technology, 2024, supervised by Associate Prof <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. 
 My research interest mainly focus on generating tasks, such as Font generation, Handwritten text synthesis.
 </p>
 
@@ -25,9 +24,10 @@ My research interest mainly focus on generating tasks, such as Font generation, 
 </ul>
 
 
-<!-- Research -->
+<!-- Publications -->
 <h1 style="font-size:25px; font-family:Arial, sans-serif; margin-top:0;">
-  Research <span style="font-size:14px;">(<sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author</b>)</span>
+  Publications
+ <span style="font-size:14px;">(<sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author</b>)</span>
 </h1>
 
 <!-- ICLR2026 (submit) -->
