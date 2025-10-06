@@ -30,7 +30,7 @@ My research interests focus on text and OCR-related generative modeling, includi
 <!-- Publications -->
 <h1 style="font-size:25px; font-family:Arial, sans-serif; margin-top:0;">
   Publications
- <span style="font-size:14px;">(<sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author</b>)</span>
+ <span style="font-size:14px;">(<sup>*</sup> <b>Equal Contribution</b>, <sup>†</sup> <b>Corresponding Author</b>)</span>
 </h1>
 
 <!-- ICLR2026 (submit) -->
