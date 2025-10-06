@@ -15,7 +15,7 @@ Hi! I am a Ph.D. student at the <b>DLVC Lab</b>, <b>South China University of Te
 <a href="http://www.dlvc-lab.net/lianwen/Index.html">Lianwen Jin</a>. 
 Before that, I received my M.S. degree from <b>Wuhan University of Technology</b> in 2024, under the supervision of Associate Prof. 
 <a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Anna Zhu</a>. 
-My research interests include generative modeling, font generation, and handwritten text synthesis.
+My research interests focus on text and OCR-related generative modeling, including font generation and handwritten text synthesis.
 </p>
 
 <!-- News -->
