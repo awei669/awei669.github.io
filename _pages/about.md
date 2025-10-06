@@ -16,8 +16,6 @@ Hi! I am a Ph.D student in DLVC lab from South China University of Technology, s
 My research interest mainly focus on generating tasks, such as Font generation, Handwritten text synthesis.
 </p>
 
-
-
 <!-- News -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">News</h1>
 <ul style="list-style-type: square; font-size: 15px">
@@ -28,30 +26,42 @@ My research interest mainly focus on generating tasks, such as Font generation, 
 
 
 <!-- Research -->
-<h1 style="font-size: 25px; font-family: Arial, sans-serif;">Research</h1>
-<p style="font-size: 13px;"> 
-  <sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author.</b> 
-</p>
+<h1 style="font-size:25px; font-family:Arial, sans-serif; margin-top:0;">
+  Research <span style="font-size:14px;">(<sup>*</sup> <b>Equal contribution</b>, <sup>†</sup> <b>Corresponding author</b>)</span>
+</h1>
 
-
+<!-- ICLR2026 (submit) -->
+<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+  <b style="font-size:16px; color:#003366;">
+    DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation.
+  </b><br>
+  <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
+  Preprint, 2025. <br>
+  <a href="https://arxiv.org/abs/2309.00827" style="color:#007acc;">Arxiv</a>
+</div>
 
 <!-- ICCV2023 -->
-<p style="font-size: 15px;" align="justify">
-  <i>Few shot font generation via transferring similarity guided global style and quantization local style.</i> <br>
-  <b>Wei Pan</b>, Anna Zhu<sup>†</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li. <br>
+<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+  <b style="font-size:16px; color:#003366;">
+    Few shot font generation via transferring similarity guided global style and quantization local style.
+  </b><br>
+  <b>Wei Pan</b>, Anna Zhu<sup>†</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li <br>
   International Conference on Computer Vision (<b>ICCV</b>), 2023. <br>
-  <a href="https://arxiv.org/abs/2309.00827">Arxiv</a>
-  <a href="https://github.com/awei669/VQ-Font">Github</a>
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html">CVF</a>
-</p>
+  <a href="https://arxiv.org/abs/2309.00827" style="color:#007acc;">Arxiv</a> &nbsp;|&nbsp;
+  <a href="https://github.com/awei669/VQ-Font" style="color:#228b22;">Github</a> &nbsp;|&nbsp;
+  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html" style="color:#b22222;">CVF</a>
+</div>
+
 
 <!-- ICME2023 -->
-<p style="font-size: 15px;" align="justify">
-  <i>Scene text involved “text”-to-image retrieval through logically hierarchical matching.</i> <br>
-  Xinyu Zhou, Anna Zhu<sup>†</sup>, Huen Chen, and <b>Wei Pan</b>.  <br>
+<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+  <b style="font-size:16px; color:#003366;">
+    Scene text involved “text”-to-image retrieval through logically hierarchical matching.
+  </b><br>
+  Xinyu Zhou, Anna Zhu<sup>†</sup>, Huen Chen, and <b>Wei Pan</b> <br>
   International Conference on Multimedia and Expo (<b>ICME</b>), 2023. <br>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10219982">Paper</a> <br>
-</p>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10219982" style="color:#007acc;">Paper</a>
+</div>
 
 
 <!-- Education -->
@@ -67,7 +77,7 @@ My research interest mainly focus on generating tasks, such as Font generation, 
 <!-- Academic Service -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Academic Service</h1>
 <p style="font-size: 15px;" align="justify">
-  IEEE-TMM, ICPR'24.
+  AAAI'26, IEEE-TMM, ICPR'24.
 </p>
 
 
