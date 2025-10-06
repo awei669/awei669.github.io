@@ -85,7 +85,7 @@ author:
   max_width       : 100  # 设置头像的最大宽度
   max_height      : 100  # 设置头像的最大高度
   bio              : "Do my favorite"
-  location         : "GuangZhou, China"
+  location         : "Guangzhou, China"
   employer         :
   #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D52J2HkAAAAJ&hl=en"
