@@ -59,14 +59,14 @@ font generation and handwritten text synthesis.
 
 
 <!-- ICME2023 -->
-<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+<!-- <div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
   <b style="font-size:16px; color:#003366;">
     Scene text involved “text”-to-image retrieval through logically hierarchical matching.
   </b><br>
   Xinyu Zhou, Anna Zhu<sup>†</sup>, Huen Chen, and <b>Wei Pan</b> <br>
   International Conference on Multimedia and Expo (<b>ICME</b>), 2023. <br>
   <a href="https://ieeexplore.ieee.org/abstract/document/10219982" style="color:#007acc;">Paper</a>
-</div>
+</div> -->
 
 
 <!-- Education -->
