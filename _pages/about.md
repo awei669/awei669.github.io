@@ -42,7 +42,7 @@ font generation and handwritten text synthesis.
   </b><br>
   <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
   Preprint, 2025. <br>
-  <a href="https://arxiv.org/abs/2309.00827" style="color:#007acc;">Arxiv</a>
+  <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Arxiv</a>
 </div>
 
 <!-- ICCV2023 -->
