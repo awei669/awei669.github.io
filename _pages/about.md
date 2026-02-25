@@ -85,7 +85,7 @@ font generation and handwritten text synthesis.
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Academic Service</h1>
 <p style="font-size: 15px;" align="justify">
   SIGGRAPH'26, AAAI'26, ICPR'24&26;<br>
-  PR Letters'26, IEEE-TMM'25.
+  PR Letters'25, IEEE-TMM'25.
 </p>
 
 
