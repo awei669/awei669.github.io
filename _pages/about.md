@@ -42,7 +42,7 @@ font generation and handwritten text synthesis.
     DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation.
   </b><br>
   <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
-  The Fourteenth International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
+  International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
   <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
   <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Github</a>
 </div>
