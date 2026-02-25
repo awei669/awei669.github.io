@@ -23,9 +23,10 @@ font generation and handwritten text synthesis.
 <!-- News -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">News</h1>
 <ul style="list-style-type: square; font-size: 15px">
+  <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
   <li>[6'2024] Graduated from Wuhan University of Technology.</li>
-  <li>[7'2023] One paper is accepted by <a href="https://iccv2023.thecvf.com/">ICCV2023</a> as Poster. </li>
-  <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME2023</a> as Oral. </li>
+  <li>[7'2023] <b>VQ-Font</b> is accepted by <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> as Poster. </li>
+  <!-- <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME 2023</a> as Oral. </li> -->
 </ul>
 
 
@@ -41,8 +42,9 @@ font generation and handwritten text synthesis.
     DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation.
   </b><br>
   <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
-  Preprint, 2025. <br>
-  <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Arxiv</a>
+  The Fourteenth International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
+  <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
+  <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Github</a>
 </div>
 
 <!-- ICCV2023 -->
@@ -82,7 +84,8 @@ font generation and handwritten text synthesis.
 <!-- Academic Service -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Academic Service</h1>
 <p style="font-size: 15px;" align="justify">
-  AAAI'26, IEEE-TMM, ICPR'24.
+  SIGGRAPH'26, AAAI'26, ICPR'24&26;<br>
+  PR Letters'26, IEEE-TMM'25.
 </p>
 
 
