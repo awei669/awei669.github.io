@@ -21,8 +21,7 @@ font generation and handwritten text synthesis.
 </p>
 
 <!-- News -->
-<!-- News -->
-<h1 style="font-size: 25px; font-family: Arial, sans-serif;">News</h1>
+<h1 style="font-size: 25px; font-family: Arial, sans-serif;">Recent News</h1>
 <ul style="list-style-type: square; font-size: 15px">
   <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
   <li>[6'2024] Graduated from Wuhan University of Technology.</li>
