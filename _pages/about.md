@@ -22,21 +22,28 @@ font generation and handwritten text synthesis.
 
 <!-- News -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">News</h1>
-<ul style="list-style-type: square; font-size: 15px">
-  <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
-  <li>[6'2024] Graduated from Wuhan University of Technology.</li>
-  <li>[7'2023] <b>VQ-Font</b> is accepted by <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> as Poster. </li>
-  <!-- <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME 2023</a> as Oral. </li> -->
-</ul>
+
+<div style="
+  max-height: 90px;
+  overflow-y: auto;
+  padding-right: 8px;
+">
+  <ul style="list-style-type: square; font-size: 15px; margin: 0; padding-left: 20px;">
+    <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
+    <li>[6'2024] Graduated from Wuhan University of Technology.</li>
+    <li>[7'2023] <b>VQ-Font</b> is accepted by <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> as Poster.</li>
+    <!-- <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME 2023</a> as Oral. </li> -->
+  </ul>
+</div>
 
 
 <!-- Publications -->
-<h1 style="font-size:25px; font-family:Arial, sans-serif; margin-top:0;">
+<h1 style="font-size:25px; font-family:Arial, sans-serif;">
   Publications
  <span style="font-size:14px;">(<sup>*</sup> <b>Equal Contribution</b>, <sup>†</sup> <b>Corresponding Author</b>)</span>
 </h1>
 
-<!-- ICLR2026 (submit) -->
+<!-- ICLR2026 -->
 <div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
   <b style="font-size:16px; color:#003366;">
     DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation.
@@ -45,6 +52,16 @@ font generation and handwritten text synthesis.
   International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
   <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
   <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Github</a>
+</div>
+
+<!-- IJDAR2026 -->
+<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+  <b style="font-size:16px; color:#003366;">
+    HQ-Font: Few-shot Font Generation via Transferring Hierarchical Quantization Styles.
+  </b><br>
+  Anna Zhu<sup>*</sup><sup>†</sup>, <b>Wei Pan<sup>*</sup></b>, Guan Li, Hongyi Cai, Brian Kenji Iwana <br>
+  International Journal on Document Analysis and Recognition <b>(IJDAR)</b>, 2026. <br>
+  <a href="https://assets-eu.researchsquare.com/files/rs-7876044/v1_covered_f6d118e7-74de-4dd9-a532-5f0a4e73ffae.pdf?c=1764779010" style="color:#007acc;">Paper</a> 
 </div>
 
 <!-- ICCV2023 -->
