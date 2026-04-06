@@ -21,20 +21,14 @@ font generation and handwritten text synthesis.
 </p>
 
 <!-- News -->
+<!-- News -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">News</h1>
-
-<div style="
-  max-height: 90px;
-  overflow-y: auto;
-  padding-right: 8px;
-">
-  <ul style="list-style-type: square; font-size: 15px; margin: 0; padding-left: 20px;">
-    <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
-    <li>[6'2024] Graduated from Wuhan University of Technology.</li>
-    <li>[7'2023] <b>VQ-Font</b> is accepted by <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> as Poster.</li>
-    <!-- <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME 2023</a> as Oral. </li> -->
-  </ul>
-</div>
+<ul style="list-style-type: square; font-size: 15px">
+  <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
+  <li>[6'2024] Graduated from Wuhan University of Technology.</li>
+  <li>[7'2023] <b>VQ-Font</b> is accepted by <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> as Poster. </li>
+  <!-- <li>[3'2023] One paper is accepted by <a href="https://www.2023.ieeeicme.org/">ICME 2023</a> as Oral. </li> -->
+</ul>
 
 
 <!-- Publications -->
