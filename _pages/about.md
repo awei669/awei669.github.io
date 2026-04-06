@@ -45,7 +45,7 @@ font generation and handwritten text synthesis.
   <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
   International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
   <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
-  <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Github</a>
+  <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Code</a>
 </div>
 
 <!-- IJDAR2026 -->
@@ -66,7 +66,7 @@ font generation and handwritten text synthesis.
   <b>Wei Pan</b>, Anna Zhu<sup>†</sup>, Xinyu Zhou, Brian Kenji Iwana, and Shilin Li <br>
   International Conference on Computer Vision (<b>ICCV</b>), 2023. <br>
   <a href="https://arxiv.org/abs/2309.00827" style="color:#007acc;">Arxiv</a> &nbsp;|&nbsp;
-  <a href="https://github.com/awei669/VQ-Font" style="color:#228b22;">Github</a> &nbsp;|&nbsp;
+  <a href="https://github.com/awei669/VQ-Font" style="color:#228b22;">Code</a> &nbsp;|&nbsp;
   <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html" style="color:#b22222;">CVF</a>
 </div>
 
