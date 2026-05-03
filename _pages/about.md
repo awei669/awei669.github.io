@@ -53,7 +53,7 @@ font generation and handwritten text synthesis.
     HQ-Font: Few-shot Font Generation via Transferring Hierarchical Quantization Styles.
   </b><br>
   Anna Zhu<sup>*</sup><sup>†</sup>, <b>Wei Pan<sup>*</sup></b>, Guan Li, Hongyi Cai, Brian Kenji Iwana <br>
-  International Journal on Document Analysis and Recognition <b>(IJDAR)</b>, 2026. <br>
+  International Journal on Document Analysis and Recognition <b>(IJDAR&ICDAR)</b>, 2026. <br>
   <a href="https://link.springer.com/article/10.1007/s10032-026-00580-y" style="color:#007acc;">Paper</a> 
 </div>
 
