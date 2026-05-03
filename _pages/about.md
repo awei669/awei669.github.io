@@ -54,7 +54,7 @@ font generation and handwritten text synthesis.
   </b><br>
   Anna Zhu<sup>*</sup><sup>†</sup>, <b>Wei Pan<sup>*</sup></b>, Guan Li, Hongyi Cai, Brian Kenji Iwana <br>
   International Journal on Document Analysis and Recognition <b>(IJDAR)</b>, 2026. <br>
-  <a href="https://assets-eu.researchsquare.com/files/rs-7876044/v1_covered_f6d118e7-74de-4dd9-a532-5f0a4e73ffae.pdf?c=1764779010" style="color:#007acc;">Paper</a> 
+  <a href="https://link.springer.com/article/10.1007/s10032-026-00580-y" style="color:#007acc;">Paper</a> 
 </div>
 
 <!-- ICCV2023 -->
