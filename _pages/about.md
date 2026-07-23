@@ -15,7 +15,7 @@ Hi! I am a Ph.D. student at the Deep Learning and Vision Computing (DLVC) Lab,
 <b>South China University of Technology</b>, supervised by 
 <a href="http://www.dlvc-lab.net/index.html">Prof. Lianwen Jin</a>. 
 Before that, I received my M.S. degree from <b>Wuhan University of Technology</b> in 2024, under the supervision of 
-<a href="http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml">Associate Prof. Anna Zhu</a>. 
+<a href="http://csai.whut.edu.cn/szdw/jsml/202509/t20250919_1349705.shtml">Associate Prof. Anna Zhu</a>. 
 My research interests focus on <b>text- and OCR-related generative modeling</b>, including 
 font generation and handwritten text synthesis.
 </p>
@@ -23,6 +23,7 @@ font generation and handwritten text synthesis.
 <!-- News -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Recent News</h1>
 <ul style="list-style-type: square; font-size: 15px">
+  <li>[3'2026] <b>HQ-Font</b> is accepted by <a href="https://icdar2026.org/index.php/accepted-papers/">IJDAR&ICDAR 2026</a>.</li>
   <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
   <li>[6'2024] Graduated from Wuhan University of Technology.</li>
   <li>[7'2023] <b>VQ-Font</b> is accepted by <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> as Poster. </li>
