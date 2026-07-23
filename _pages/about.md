@@ -37,15 +37,14 @@ font generation and handwritten text synthesis.
  <span style="font-size:14px;">(<sup>*</sup> <b>Equal Contribution</b>, <sup>†</sup> <b>Corresponding Author</b>)</span>
 </h1>
 
-<!-- ICLR2026 -->
+<!-- arXiv2026 -->
 <div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
   <b style="font-size:16px; color:#003366;">
-    DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation.
+    DiffMath: Symbol- and Graph-Aware Latent Diffusion Transformer for Handwritten Mathematical Expression Generation.
   </b><br>
-  <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
-  International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
-  <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
-  <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Code</a>
+   <b>Wei Pan</b>, Xuhan Zheng, Yilin Shi, Huiguo He, Hiuyi Cheng, Dezhi Peng, Minghui Liao, Lianwen Jin<sup>†</sup> <br>
+   <b>arXiv</b>, 2026. <br>
+  <a href="https://arxiv.org/abs/2606.19939" style="color:#007acc;">Paper</a> 
 </div>
 
 <!-- IJDAR2026 -->
@@ -57,6 +56,19 @@ font generation and handwritten text synthesis.
   International Journal on Document Analysis and Recognition <b>(IJDAR&ICDAR)</b>, 2026. <br>
   <a href="https://link.springer.com/article/10.1007/s10032-026-00580-y" style="color:#007acc;">Paper</a> 
 </div>
+
+
+<!-- ICLR2026 -->
+<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+  <b style="font-size:16px; color:#003366;">
+    DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation.
+  </b><br>
+  <b>Wei Pan</b>, Huiguo He, Hiuyi Cheng, Yilin Shi, Lianwen Jin<sup>†</sup> <br>
+  International Conference on Learning Representations <b>(ICLR)</b>, 2026. <br>
+  <a href="https://arxiv.org/abs/2509.23624" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
+  <a href="https://github.com/awei669/DiffInk" style="color:#228b22;">Code</a>
+</div>
+
 
 <!-- ICCV2023 -->
 <div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
