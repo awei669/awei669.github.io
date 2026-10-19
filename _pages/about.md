@@ -23,6 +23,8 @@ font generation and handwritten text synthesis.
 <!-- News -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Recent News</h1>
 <ul style="list-style-type: square; font-size: 15px">
+  <li>[10'2026] <b>InkFormer</b> is accepted by <a href="https://jmlr.org/tmlr/">TMLR 2026</a>.</li>
+  <li>[8'2026] <b>Ancient-Bench</b> and <b>Scroll-Net</b> is accepted by <a href="https://2026.emnlp.org/calls/main_conference_papers/">EMNLP 2026</a>.</li>
   <li>[3'2026] <b>HQ-Font</b> is accepted by <a href="https://icdar2026.org/index.php/accepted-papers/">IJDAR&ICDAR 2026</a>.</li>
   <li>[1'2026] <b>DiffInk</b> is accepted by <a href="https://iclr.cc/">ICLR 2026</a> as Poster.</li>
   <li>[6'2024] Graduated from Wuhan University of Technology.</li>
@@ -36,6 +38,16 @@ font generation and handwritten text synthesis.
   Publications
  <span style="font-size:14px;">(<sup>*</sup> <b>Equal Contribution</b>, <sup>†</sup> <b>Corresponding Author</b>)</span>
 </h1>
+
+<!-- TMLR2026 -->
+<div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
+  <b style="font-size:16px; color:#003366;">
+    InkFormer: From Characters to Signatures via Style-Transformation-Aware Online Handwriting Generation.
+  </b><br>
+   <b>Wei Pan<sup>*</sup></b>, Yilin Shi<sup>*</sup>, Lianwen Jin<sup>†</sup> <br>
+   <b>Paper</b>, 2026. <br>
+  <a href="https://openreview.net/forum?id=Nbhw2Y5Nmh&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)" style="color:#007acc;">Paper</a> 
+</div>
 
 <!-- arXiv2026 -->
 <div style="background-color:#f9f9f9; padding:10px 15px; border-radius:8px; font-size:15px; line-height:1.6; margin-bottom:12px;">
@@ -107,7 +119,7 @@ font generation and handwritten text synthesis.
 <!-- Academic Service -->
 <h1 style="font-size: 25px; font-family: Arial, sans-serif;">Academic Service</h1>
 <p style="font-size: 15px;" align="justify">
-  SIGGRAPH'26, AAAI'26, ICPR'24&26;<br>
+  ICLR'27, SIGGRAPH'26, AAAI'26&27, ICPR'24&26;<br>
   PR Letters'25, IEEE-TMM'25.
 </p>
 
