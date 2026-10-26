@@ -15,7 +15,7 @@ Hi! I am a Ph.D. student at the Deep Learning and Vision Computing (DLVC) Lab,
 <b>South China University of Technology</b>, supervised by 
 <a href="http://www.dlvc-lab.net/index.html">Prof. Lianwen Jin</a>. 
 Before that, I received my M.S. degree from <b>Wuhan University of Technology</b> in 2024, under the supervision of 
-<a href="http://csai.whut.edu.cn/szdw/jsml/202509/t20250919_1349705.shtml">Associate Prof. Anna Zhu</a>. 
+<a href="https://ai.whut.edu.cn/szdw/jsml/202509/t20250919_1349705.shtml">Associate Prof. Anna Zhu</a>. 
 My research interests focus on <b>text- and OCR-related generative modeling</b>, including 
 font generation and handwritten text synthesis.
 </p>
@@ -46,7 +46,8 @@ font generation and handwritten text synthesis.
   </b><br>
    <b>Wei Pan<sup>*</sup></b>, Yilin Shi<sup>*</sup>, Lianwen Jin<sup>†</sup> <br>
    Transactions on Machine Learning Research <b>(TMLR)</b>, 2026. <br>
-  <a href="https://openreview.net/forum?id=Nbhw2Y5Nmh&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)" style="color:#007acc;">Paper</a> 
+  <a href="https://openreview.net/forum?id=Nbhw2Y5Nmh&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)" style="color:#007acc;">Paper</a>  &nbsp;|&nbsp;
+  <a href="https://github.com/awei669/InkFormer" style="color:#228b22;">Code</a>
 </div>
 
 <!-- arXiv2026 -->
@@ -56,7 +57,8 @@ font generation and handwritten text synthesis.
   </b><br>
    <b>Wei Pan</b>, Xuhan Zheng, Yilin Shi, Huiguo He, Hiuyi Cheng, Dezhi Peng, Minghui Liao, Lianwen Jin<sup>†</sup> <br>
    <b>arXiv</b>, 2026. <br>
-  <a href="https://arxiv.org/abs/2606.19939" style="color:#007acc;">Paper</a> 
+  <a href="https://arxiv.org/abs/2606.19939" style="color:#007acc;">Paper</a> &nbsp;|&nbsp;
+  <a href="https://github.com/awei669/DiffMath" style="color:#228b22;">Code</a>
 </div>
 
 <!-- IJDAR2026 -->
