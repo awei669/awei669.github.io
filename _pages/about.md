@@ -133,12 +133,9 @@ font generation and handwritten text synthesis.
   Outstanding undergraduate student. 2021.6<br>
 </p>
 
+##### Since July 2023 · Last updated October 2026.
 
-
-##### Last update: 4/25, 2024.
-
-
-<a href='https://clustrmaps.com/site/1c07b'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=VwMJpNfSRvymxWpJ1PNkRBvE9Y8CcuHGeT4blD1IzLc&co=2d78ad&ct=ffffff'/></a>
+<!-- <a href='https://clustrmaps.com/site/1c07b'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=VwMJpNfSRvymxWpJ1PNkRBvE9Y8CcuHGeT4blD1IzLc&co=2d78ad&ct=ffffff'/></a> -->
 
 
 
